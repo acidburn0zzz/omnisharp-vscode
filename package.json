@@ -91,7 +91,7 @@
     "mocha-typescript": "^1.1.12",
     "npm-run-all": "4.1.1",
     "nyc": "^11.3.0",
-    "plist": "2.0.1",
+    "plist": "3.0.6",
     "remap-istanbul": "^0.9.6",
     "source-map-support": "^0.5.0",
     "ts-node": "^5.0.1",
